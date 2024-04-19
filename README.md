@@ -30,6 +30,6 @@ Snippet Social is a full-stack social media application designed exclusively for
 
 To get started with Snippet Social, follow these steps:
 
-1. Clone the repository: `git clone <repository-url>`
-2. Install dependencies: `npm install` or `yarn install`
-3. Start the development server: `npm run dev` or `yarn dev`
+1. Clone the repository: `git clone https://github.com/skadoosh4/Snippet-Application.git`
+2. Install dependencies: `npm install`
+3. Start the development server: `npm run dev`
